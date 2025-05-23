@@ -1,7 +1,0 @@
-1. Utwórz nazwę repo w github prez przeglądarkę
-2. Otwórz CMD wpisz git clone'adres utworzonego repo z przegląrki'
-3. W pycharm stworzyć nowy projekt w lokalizacji skopiowanego repo.
-4. Chcąc przenieść pliki do repo należy wpisać w temrinalu pycharm:
-	- git add .
-	- git commit -m 'nazwa wersji'
-	- git push
