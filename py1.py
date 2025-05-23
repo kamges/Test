@@ -1,2 +1,1 @@
-print('Hello')
-print('Siema')
+print('Zapisałem hasło')
